@@ -2,9 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Virtual Study Group - Collaborative Learning Platform',
+  description: 'Collaborate with peers, share notes, and learn together in a virtual environment. Join study sessions, ask questions, and enhance your academic performance.',
 }
 
 export default function RootLayout({
