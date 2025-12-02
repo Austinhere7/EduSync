@@ -112,7 +112,7 @@ A comprehensive collaborative learning platform that enables students to study t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Austinhere7/virtual_study_group.git
+git clone https://github.com/Austinhere7/EduSync.git
 cd edusync
 ```
 
@@ -609,7 +609,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Austinhere7**
 - GitHub: [@Austinhere7](https://github.com/Austinhere7)
-- Repository: [EduSync](https://github.com/Austinhere7/virtual_study_group)
+- Repository: [EduSync](https://github.com/Austinhere7/EduSync)
 
 ## 🙏 Acknowledgments
 
