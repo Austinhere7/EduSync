@@ -1,3 +1,11 @@
+/**
+ * Registration API Route
+ * Handles new user registration for students and teachers
+ * 
+ * @route POST /api/auth/register
+ * @access Public
+ */
+
 import { type NextRequest, NextResponse } from "next/server"
 import { auth } from "@/lib/auth"
 import { db } from "@/lib/db"

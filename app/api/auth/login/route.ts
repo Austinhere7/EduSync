@@ -1,3 +1,11 @@
+/**
+ * Login API Route
+ * Handles user authentication and session management
+ * 
+ * @route POST /api/auth/login
+ * @access Public
+ */
+
 import { type NextRequest, NextResponse } from "next/server"
 import { auth } from "@/lib/auth"
 
