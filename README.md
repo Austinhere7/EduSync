@@ -1,4 +1,4 @@
-# 🎓 Virtual Study Group
+# 🎓 EduSync
 
 A comprehensive collaborative learning platform that enables students to study together, share knowledge, and enhance their academic performance through real-time video conferencing, note sharing, Q&A forums, and teacher feedback systems.
 
