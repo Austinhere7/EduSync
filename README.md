@@ -257,17 +257,7 @@ virtual-study-group/
 7. **Fully Responsive**: Works seamlessly on any device
 8. **Accessible**: Built with accessibility best practices
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](docs/screenshots/home.png)
-*Main landing page with feature cards and upcoming sessions*
-
-### Login Page
-![Login Page](docs/screenshots/login.png)
-*User authentication interface*
-
-## 📡 API Documentation
+##  API Documentation
 
 ### Authentication Endpoints
 
